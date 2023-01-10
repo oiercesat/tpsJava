@@ -1,0 +1,12 @@
+
+public class Client {
+
+	public static void main(String[] args) {
+		ICible adaptateur = new Adaptateur();
+		Disponible dispo = new Disponible();
+		
+		adaptateur->Disponible.setUtilise(dispo);
+
+	}
+
+}

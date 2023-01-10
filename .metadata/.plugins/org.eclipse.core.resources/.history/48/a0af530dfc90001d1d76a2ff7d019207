@@ -1,0 +1,20 @@
+
+public class Adaptateur implements ICible{
+	//ATTRIBUT
+	Disponible utilise;
+	//CONSTRUCTEUR
+	Adaptateur (){
+		utilise=null;
+	}
+	//ENCAPSULATION
+	public Disponible getUtilise() {
+		return utilise;
+	}
+	public void setUtilise(Disponible d ) {
+		utilise=d;
+	}
+	//METHODES
+	public void operation() {
+		utilise.operationDisponible();
+	}
+}

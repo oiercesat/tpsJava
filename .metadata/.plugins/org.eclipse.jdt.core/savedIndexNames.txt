@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+F:\Documents\BUT\S3\R3.04\tpJava\.metadata\.plugins\org.eclipse.jdt.core
+1440190412.index
+732890373.index
+1865797976.index
+3315688489.index
+750960924.index
+3050016934.index
+1539699082.index
+2997245119.index
